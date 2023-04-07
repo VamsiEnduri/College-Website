@@ -1,0 +1,25 @@
+.letter{
+    background-color: #4a7dba;
+    color: #fff;
+    padding: 15px;
+ /* width: 70%; */
+  border-radius: 20px;
+}
+.subscribe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:15px;
+    /* width: 70%; */
+}
+.subscribe input{
+border: none;
+outline: none;
+padding: 10px;
+}
+.letter h2{
+    font-weight: 600;
+}
+ .subscribe .btn{
+    background-color: white;
+}

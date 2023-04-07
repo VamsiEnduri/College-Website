@@ -1,0 +1,9 @@
+.single_feature {
+    /* margin: 10px; */
+    margin-left: 10px;
+}
+section{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}

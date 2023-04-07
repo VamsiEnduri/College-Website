@@ -1,0 +1,20 @@
+.single_course_item{
+    padding: 15px;
+}
+.course_img img{
+border-radius: 10px;
+margin-bottom: 20px;
+}
+.enroll{
+    text-decoration: none;
+font-size: 0.7rem;
+font-weight: 500;
+color: #3782b8;
+}
+.students ,.rating, .lesson{
+    font-size: 0.9rem;
+    
+}
+.icon{
+    color: #1873b5;
+}

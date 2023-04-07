@@ -1,0 +1,7 @@
+*{
+  font-family: cursive;
+}
+.app{
+  display: grid;
+  row-gap: 1.5rem;
+}

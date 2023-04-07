@@ -1,0 +1,26 @@
+.foot_icon{
+    color: rgb(34, 91, 197);
+    font-size: 18px;
+}
+.footer{
+   background-color: #f8f8f8;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.list a{
+   text-decoration: none;
+   background-color: transparent;
+   color: black;
+}
+.follows span{
+    display: flex;
+   column-gap: 10px;
+   row-gap: -2px;
+}
+h4{
+    color: #49f5bf;
+}
+.links .list{
+    background-color: transparent;
+}

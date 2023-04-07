@@ -1,0 +1,23 @@
+.search input{
+border: none;
+outline: none;
+padding: 7px ;
+}
+.hero_cont{
+margin-top: 3rem;
+
+}
+.hero_cont h2{
+    font-weight: 600;
+    line-height: 34px;
+}
+.search{
+    display: flex;
+    width: 40%;
+    border: 1px solid lightgreen;
+}
+.search button{
+    /* background-color: #4c9e81; */
+    background-color: aqua;
+
+}
