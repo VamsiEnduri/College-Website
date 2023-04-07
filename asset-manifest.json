@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/College-Website/static/css/main.ec5819e7.css",
+    "main.js": "/College-Website/static/js/main.28173013.js",
+    "static/media/hero-img1.png": "/College-Website/static/media/hero-img1.12a6ce0ca7090bbe2a38.png",
+    "static/media/about-us.jpg": "/College-Website/static/media/about-us.7cee11852f1eba53f13f.jpg",
+    "static/media/web-design.png": "/College-Website/static/media/web-design.9071c3ef125375e2469a.png",
+    "static/media/why-choose-us.png": "/College-Website/static/media/why-choose-us.5ec7e3b24c1cb791bf4c.png",
+    "static/media/seo.png": "/College-Website/static/media/seo.b323da636359c745b6dc.png",
+    "static/media/web-development.png": "/College-Website/static/media/web-development.91ce53388df7bc88002c.png",
+    "static/media/kids-learning.png": "/College-Website/static/media/kids-learning.fcd258b6f9310b2dd2af.png",
+    "static/media/ui-ux.png": "/College-Website/static/media/ui-ux.0366b465b35da2e796bb.png",
+    "static/media/graphics-design.png": "/College-Website/static/media/graphics-design.08c25c6b6b3ecac266d2.png",
+    "index.html": "/College-Website/index.html",
+    "main.ec5819e7.css.map": "/College-Website/static/css/main.ec5819e7.css.map",
+    "main.28173013.js.map": "/College-Website/static/js/main.28173013.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec5819e7.css",
+    "static/js/main.28173013.js"
+  ]
+}
